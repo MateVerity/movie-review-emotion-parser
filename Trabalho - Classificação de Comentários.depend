@@ -1,0 +1,29 @@
+# depslib dependency file v1.0
+1529541327 source:c:\users\mateus\desktop\cpd\2.0\trabalho - classificação de comentários\head.c
+
+1530055063 source:c:\users\mateus\desktop\cpd\2.0\trabalho - classificação de comentários\main.cpp
+	"head.h"
+	<iostream>
+	<vector>
+	<string>
+
+1530053209 c:\users\mateus\desktop\cpd\2.0\trabalho - classificação de comentários\head.h
+	<iostream>
+	<list>
+	<string>
+	<fstream>
+	<vector>
+
+1530054832 source:c:\users\mateus\desktop\cpd\2.0\trabalho - classificação de comentários\head.cpp
+	<iostream>
+	"head.h"
+	<list>
+	<string>
+	<cctype>
+	<cstdlib>
+	<fstream>
+	<vector>
+	<sstream>
+	<algorithm>
+	<iomanip>
+
